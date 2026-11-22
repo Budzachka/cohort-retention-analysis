@@ -14,3 +14,5 @@ the behavior of promo users and organic users.
 3. Defined signup cohorts and calculated month offset (user lifetime)
 4. Built a cohort table in Google Sheets with Retention Rate by month
 5. Compared promo vs organic users and analyzed acquisition quality
+
+https://docs.google.com/spreadsheets/d/1hosmCr9zr3cQOy0D8YTROz-khHgwE0Wbgj54wncUCb4/edit?usp=sharing
